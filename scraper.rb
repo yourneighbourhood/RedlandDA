@@ -63,3 +63,4 @@ results.each do |result|
     puts "Skipping already saved record " + record['council_reference']
   end
 end
+
